@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37806107673",
+    "project_id": "zest-21ad1",
+    "storage_bucket": "zest-21ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37806107673:android:fd595d1f3f86e455780e88",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37806107673-3c7rrc6jv0opkld9kjdf17hasgo32a9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH62g6wS9WCwmOAdlsizeRwkd4l6lgrjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37806107673-3c7rrc6jv0opkld9kjdf17hasgo32a9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
